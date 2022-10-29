@@ -16,7 +16,7 @@
 <nav class="navbar bg-base-100/80 backdrop-blur-sm fixed top-0 z-50 px-4">
 	<div class="navbar-start">
 		<div class="dropdown">
-			<label tabindex="0" class="btn btn-ghost lg:hidden">
+			<label tabindex="0" for="mobile-nav" class="btn btn-ghost lg:hidden">
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
 					class="h-5 w-5"
@@ -33,6 +33,7 @@
 			</label>
 			<ul
 				tabindex="0"
+				id="mobile-nav"
 				class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
 			>
 				{#each navLinks as link (link)}
