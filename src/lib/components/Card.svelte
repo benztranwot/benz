@@ -8,7 +8,7 @@
 <div
 	class="h-112 card card-compact w-80 bg-base-100 text-base-content m-8 shadow-xl duration-300 hover:shadow-2xl"
 >
-	<figure class="px-4 pt-4"><img src={featuredImage.url} alt={name} class="rounded-xl" /></figure>
+	<figure class="px-4 pt-4"><img src={featuredImage.url} alt={name} class="rounded-lg" /></figure>
 	<div class="card-body items-center text-center h-72">
 		<h2 class="card-title text-2xl">{name}</h2>
 		<p class="h-16">{description}</p>

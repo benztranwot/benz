@@ -2,7 +2,7 @@
 
 [View Live Site](https://benz-tran-tech.vercel.app/)
 
-My new unique personal portfolio website. I started this project from scratch and did everything by myself include choosing the technologies, designing, developing and deploying.
+My new unique personal portfolio website. I started this project from scratch and did everything by myself from choosing the technologies to designing, developing and deploying.
 
 ## Preview
 

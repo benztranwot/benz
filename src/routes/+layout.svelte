@@ -5,7 +5,7 @@
 	import Footer from "$lib/components/Footer.svelte";
 </script>
 
-<div data-theme={$theme} data-sveltekit-prefetch class="bg-base-300">
+<div data-theme={$theme} class="bg-base-300">
 	<Navbar />
 	<main>
 		<slot />

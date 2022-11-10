@@ -8,14 +8,18 @@
 </script>
 
 <section
-	class="grid lg:grid-cols-2 grid-cols-1 lg:grid-rows-1 grid-rows-2 h-160 lg:min-h-screen lg:py-16 py-8"
+	class="grid lg:grid-cols-2 grid-cols-1 lg:grid-rows-1 grid-rows-2 h-128 md:h-192 lg:py-16 py-8"
 >
 	<div
-		class={`col-span-1 bg-center bg-cover bg-no-repeat h-64 md:h-96 lg:h-full rounded-2xl shadow-2xl ${
+		class={`col-span-1 flex justify-center items-center ${
 			i % 2 === 0 ? "lg:order-2" : "lg:order-1"
 		}`}
-		style="background-image: url({image.url});"
-	/>
+	>
+		<div
+			class="bg-center bg-cover bg-no-repeat w-144 md:w-176 h-64 md:h-96 lg:h-160 rounded-2xl shadow-2xl"
+			style="background-image: url({image.url});"
+		/>
+	</div>
 	<div
 		class={`col-span-1 relative h-24 md:h-112 lg:h-full ${
 			i % 2 === 0 ? "lg:order-1" : "lg:order-2"

@@ -1,5 +1,5 @@
 <script>
-	import profile from "$lib/assets/profile.png";
+	import benz from "$lib/assets/benz.jpg";
 	import about1 from "$lib/assets/about1.jpg";
 	import about2 from "$lib/assets/about2.jpg";
 
@@ -98,7 +98,7 @@
 			<div
 				class="w-40 md:w-60 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2 z-20"
 			>
-				<img src={profile} alt="Profile" />
+				<img src={benz} alt="Profile" />
 			</div>
 			{#if animateKey}
 				{#each technologies as { icon, xStart, yStart, xEnd, yEnd, delay } (icon)}
