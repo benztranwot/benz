@@ -19,11 +19,21 @@ module.exports = {
 			},
 			translate: {
 				26: "6.5rem"
+			},
+			screens: {
+				mini: "360px"
 			}
 		}
 	},
-	plugins: [require("daisyui")],
+	plugins: [
+		require("daisyui"),
+		require("tailwind-scrollbar-hide"),
+		require("tailwind-scrollbar")({ nocompatible: true })
+	],
 	daisyui: {
 		themes: ["night", "light"]
+	},
+	variants: {
+		scrollbar: ["rounded"]
 	}
 };
