@@ -90,7 +90,7 @@
 		class="h-screen pt-20 md:pt-24 text-center flex flex-col justify-center items-center bg-base-100"
 	>
 		<h1 class="text-3xl md:text-4xl lg:text-5xl font-semibold text-primary mb-2 md:mb-4">
-			Hi there, I'm Ben, Web Developer
+			Hi there, I'm Quan, Web Developer
 		</h1>
 		<h3 class="md:text-xl lg:text-2xl">Software Engineer | UX/UI Enthusiast | Coffee Aficionado</h3>
 

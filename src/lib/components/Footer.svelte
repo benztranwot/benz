@@ -6,7 +6,7 @@
 	<div>
 		<Icon icon="bi:code-slash" class="h-14 w-14 mb-2" />
 		<p class="font-bold">Built with SvelteKit, DaisyUI and Hygraph CMS.</p>
-		<p>Copyright © 2022 Ben Tran - All right reserved</p>
+		<p>Copyright © 2022 Quan Tran - All right reserved</p>
 	</div>
 	<div>
 		<div class="flex justify-center items-center gap-2">

@@ -113,8 +113,8 @@
 						don't hesitate to use the form.
 					</p>
 					<p class="text-xl text-white mb-6">
-						You can also reach out to me at places mentioned below. I will try to get back to you as
-						fast as I can.
+						You can also reach out to me at places mentioned below. I will get back to you as soon
+						as possible.
 					</p>
 					<div class="flex flex-row justify-center items-center gap-2">
 						<div class="tooltip" data-tip="benzdev0305@gmail.com">
