@@ -9,7 +9,7 @@
 		const formElement = document.querySelector("#contact-form");
 		const formData = new FormData(formElement);
 
-		fetch("https://formsubmit.co/5f5f19063ba936a80c82dbd0b94b1526", {
+		fetch("https://formsubmit.co/b002e75ae80d18132df801848c511742", {
 			method: "POST",
 			body: formData
 		});
@@ -117,8 +117,8 @@
 						as possible.
 					</p>
 					<div class="flex flex-row justify-center items-center gap-2">
-						<div class="tooltip" data-tip="benzdev0305@gmail.com">
-							<a href="mailto:benzdev0305@gmail.com" class="btn btn-ghost btn-square h-14 w-14">
+						<div class="tooltip" data-tip="minhquantran451@gmail.com">
+							<a href="mailto:minhquantran451@gmail.com" class="btn btn-ghost btn-square h-14 w-14">
 								<Icon icon="ant-design:mail-outlined" class="h-10 w-10 text-white" />
 							</a>
 						</div>
@@ -134,7 +134,7 @@
 						</div>
 						<div class="tooltip" data-tip="Linkedin">
 							<a
-								href="https://www.linkedin.com/in/benz-tran/"
+								href="https://www.linkedin.com/in/quantrantech"
 								target="_blank"
 								rel="noreferrer"
 								class="btn btn-ghost btn-square h-14 w-14"

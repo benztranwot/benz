@@ -20,11 +20,11 @@
 			</a>
 			<a
 				class="btn btn-ghost btn-circle hover:bg-transparent hover:scale-110 hover:text-primary cursor-pointer duration-300"
-				href="mailto:benzdev0305@gmail.com"><Icon icon="ci:mail" class="h-10 w-10" /></a
+				href="mailto:minhquantran451@gmail.com"><Icon icon="ci:mail" class="h-10 w-10" /></a
 			>
 			<a
 				class="btn btn-ghost btn-circle hover:bg-transparent hover:scale-110 hover:text-primary cursor-pointer duration-300"
-				href="https://www.linkedin.com/in/benz-tran/"
+				href="https://www.linkedin.com/in/quantrantech"
 				target="_blank"
 				rel="noreferrer"
 			>
