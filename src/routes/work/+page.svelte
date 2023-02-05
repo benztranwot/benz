@@ -16,7 +16,7 @@
 </script>
 
 <svelte:head>
-	<title>Ben Tran | Frontend Developer & JAMstack Enthusiast | Works</title>
+	<title>Quan Tran | Frontend Developer & JAMstack Enthusiast | Works</title>
 </svelte:head>
 
 <AnimationWrapper>

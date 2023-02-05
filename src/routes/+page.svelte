@@ -82,7 +82,7 @@
 </script>
 
 <svelte:head>
-	<title>Ben Tran | Frontend Developer & JAMstack Enthusiast | Home</title>
+	<title>Quan Tran | Frontend Developer & JAMstack Enthusiast | Home</title>
 </svelte:head>
 
 <AnimationWrapper>
@@ -159,7 +159,7 @@
 					<h2 class="text-3xl md:text-4xl text-accent font-semibold mb-2">My Goals</h2>
 					<p class="lg:text-xl">
 						My goal is to always create user-friendly, reliable, and high performance products. I
-						stand for quality and I enjoy spending time fixing little details, optimizing web apps.
+						stand for quality and enjoy spending time fixing little details, optimizing web apps.
 					</p>
 					<a
 						href="/work"

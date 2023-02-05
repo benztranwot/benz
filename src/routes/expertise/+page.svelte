@@ -9,7 +9,7 @@
 </script>
 
 <svelte:head>
-	<title>Ben Tran | Frontend Developer & JAMstack Enthusiast | Skills</title>
+	<title>Quan Tran | Frontend Developer & JAMstack Enthusiast | Skills</title>
 </svelte:head>
 
 <AnimationWrapper>
